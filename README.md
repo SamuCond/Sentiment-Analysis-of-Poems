@@ -1,1 +1,2 @@
 # Sentiment-Analysis-of-Poems
+This project is influenced by the movie "Dead Poets Society" and focuses on the theme of "Carpe Diem" or seizing the day. It will involve collecting poems from poets.org using web scrapping, and then analyzing these works to uncover prevailing themes and emotional tones using data analysis techniques. The goal is to explore how these poems encourage readers to fully embrace and make the most of each day.
